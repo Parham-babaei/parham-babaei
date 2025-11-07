@@ -1,4 +1,14 @@
-## Hi there 👋
+## hello everyone  👋
+Im parham babaei im from iran 
+If you have a idea write your comment for me 
+**Im working gauss app**
+## favorite langauges 👩‍💻
+My favorite languages ​​are Python, HTML, and CSS.
+~~~
+python
+print("lets-go")
+~~~
+
 
 <!--
 **Parham-babaei/parham-babaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
